@@ -175,3 +175,5 @@ Open the project with **Unity 2022.3.51f1** (the version in [`ProjectVersion.txt
 ## Credits and license
 
 Made by **nightst and collaborators**. The project includes third-party asset directories such as `KrishnaPalacio`, `Warped Shooting Fx`, and `NavMeshPlus`; consult their original license terms before reusing those assets. Repository source is accompanied by the [MIT license](LICENSE).
+
+Original code and documentation authored by Jakkarin Promsee are licensed under the [MIT License](LICENSE). Third-party code, assets, datasets, and other materials are not covered by this license; their original terms apply.
